@@ -3,3 +3,4 @@ structure (Results_bus ){
     type (RESULT)
     min (Optional) max (Many) 
   }
+}
